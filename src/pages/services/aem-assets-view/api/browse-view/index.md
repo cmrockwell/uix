@@ -99,10 +99,10 @@ action ids of actions that can be hidden:
 
 | Browsing Context | Action IDs that can be hidden or overridden |
 |------------|------------|
-| `assets` | "edit", "openInExpress", "reprocess", "copy", "move", "rename", "bulkRename", "managePermissions", "delete", "publish", "download", "share" |
+| `assets` | "edit", "openInExpress", "reprocess", "copy", "move", "rename", "bulkRename", "bulkMetadataEdit", "managePermissions", "delete", "publish", "download", "share" |
 | `collections` | "openInExpress", "rename", "managePermissions", "delete", "download", "share" |
 | `recent` | - |
-| `search` | "edit", "openInExpress", "reprocess", "copy", "move", "rename", "bulkRename", "managePermissions", "delete", "publish", "download", "share" |
+| `search` | "edit", "openInExpress", "reprocess", "copy", "move", "rename", "bulkRename", "bulkMetadataEdit", "managePermissions", "delete", "publish", "download", "share" |
 | `trash` | "delete" |
 
 #### Built-in header menu buttons
